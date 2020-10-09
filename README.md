@@ -1,6 +1,6 @@
 # Face recognition API
 
-This project is designed to run with the [Front end] (https://github.com/Jaidev0077/facerecognition). 
+This project is designed to run with the [Front end](https://github.com/Jaidev0077/facerecognition). 
 In the project directory, you can run:
 
 ### `npm start`
